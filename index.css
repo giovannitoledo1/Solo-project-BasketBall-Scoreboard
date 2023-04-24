@@ -74,7 +74,7 @@ body {
 #new-game {
     font-family: 'CursedTimerUlil-Aznm';
     background-color: transparent;
-    margin: 20px;
+    margin: auto;
     border-radius: 4px;
     height: 45px;
     width: 90px;
@@ -93,11 +93,10 @@ body {
     border-radius: 5px;
     width: 210px;
     height: 100px;
-    margin-right: 50px;
-    margin-left: 180px;
-    margin-top: 10px;
-    margin-bottom: -50px;
+    margin: auto;
     padding-right: 30px;
     padding-left: 30px;
     text-align: center;
+    justify-content: center;
+    justify-items: center;
 }
